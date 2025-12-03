@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Rudy</h1>
 <h3 align="center">A developer and gamer from the Netherlands</h3>
 
-- 👨‍💻 All of my projects are available at [SOON](SOON)
+- 👨‍💻 All of my projects are available at [my website](https://aboutrudy.netlify.app/)
 
 - 📫 How to reach me **doorenrudy2@gmail.com**
 
