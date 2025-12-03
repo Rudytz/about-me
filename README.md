@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://aboutrudy.netlify.app/)
 
-- 📫 How to reach me **doorenrudy2@gmail.com**
+- 📫 How to reach me **doorenrudym@gmail.com**
 
 - 📄 My resume: [SOON](SOON)
 
